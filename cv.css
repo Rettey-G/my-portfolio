@@ -3,19 +3,45 @@ body {
     font-family: "Nunito", sans-serif;
 }
 
-.blurb h2 {
+.blurb h4 {
    color: #EA1C2C;
    font-weight: 100;
-   font-size: 2.5rem;
+   font-size: 1.5rem;
 }
 
-.blurb p {
-    color: #f498b8;
+.blurb li {
+    color: black;
     font-weight: 100;
     font-size: 1.125rem;
-    line-height: 2;
+    line-height: 1.5;
+    text-align: left;
+    margin-left: 20px;
+    
 }
 
+
+#img-left{
+    padding: 10px;
+   margin-left: 200px;
+    width: 500px;
+    
+    
+    
+}
+
+#img-right{
+    padding: 10px;
+    margin-right: 10px;
+    width: 500px;
+    
+}
+
+#img-social{
+    padding: 10px;
+    margin-right: 10px;
+    width: 300px;
+    
+}
 .content {
     margin-top: 100px;
     margin-bottom: 100px;
