@@ -1,0 +1,31 @@
+
+
+
+.photo-set{
+   
+    padding-top: 10px;
+}
+.photo-set-1{
+   
+    padding-top: 10px;
+
+}
+
+.photo-set img{
+    height: 250px;
+  
+   padding: 10px;
+   
+}
+.photo-set-1 img{
+    height: 430px;
+  
+   padding: 10px;
+  
+   
+}
+
+.image-photo:hover{
+    transform: scale(1.5) ;
+    transition: all .5s ease-in-out;
+}

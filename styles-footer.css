@@ -1,0 +1,38 @@
+.social-btn {
+        
+            display: inline-block;
+            width: 40px;
+            padding: 5px 5px;
+            font-size: 24px;
+            cursor: pointer;
+            text-align: center;
+            text-decoration: none;
+            outline: none;
+            color: black
+            background-color:none;
+            border: none;
+            border-radius: 15px;
+            
+          }
+          
+
+  .footer1{
+width: 100%;
+background:none;
+background-image: url('images/backgroundKUR.png');
+color: black;
+padding-top: 5px;
+padding-bottom: 5px;
+text-align: center;
+text-transform:initial;
+
+  }
+
+
+
+
+
+
+  
+  
+ 
